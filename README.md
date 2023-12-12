@@ -34,7 +34,7 @@ https://example-ip.com/get_dth_plans/?phn={PHN}<br/>
 https://example-ip.com/get_electricity_bill/?cn={CN}&op={OP}
 
 ## Help
-I didn't face any issue regarding to this issue. 
+I didn't face any issue regarding to this project. 
 
 ## Authors
 
