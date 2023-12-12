@@ -23,7 +23,7 @@ You can check your current featured packages for your phone,dth and electricity 
 ### Executing program
 
 ```
-python app.run
+python app.py
 ```
 
 ## Example
