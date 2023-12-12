@@ -26,8 +26,11 @@ python app.py
 
 ## Example
 https://example-ip.com/get_phn_packages/?phn={PHN}
+
 https://example-ip.com/get_phn_oparator/?phn={PHN}
+
 https://example-ip.com/get_dth_plans/?phn={PHN}
+
 https://example-ip.com/get_electricity_bill/?cn={CN}&op={OP}
 
 ## Help
